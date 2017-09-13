@@ -1,0 +1,57 @@
+{
+    "data": {
+        "title": "Vulgar Coffee Trivia",
+        "cards": [
+            {
+              "question": "What is a Coffee Shop chain that starts with an 'S'?",
+              "hint": "It rhymes with barlucks.",
+              "answer": "Starbucks, its boss."  
+            },
+            {
+                "question": "What is a Chemex?",
+                "hint": "besides stupid and pretentious",
+                "answer": "A shitty way to take too long to make coffee."  
+              },
+              {
+                "question": "What is used to turn coffee beans into coffee grounds?",
+                "hint": "You should know this, its pretty much in the question.",
+                "answer": "A coffee Grinder, dipshit."  
+              },
+              {
+                "question": "What do coffee, crack, pcp, meth and heroin have in common?",
+                "hint": "I think we can all agree...",
+                "answer": "THEY'RE FUCKING GREAT!"  
+              },
+              {
+                  "question": "What is the douchiest way to make coffee?",
+                  "hint": "its what assholes with too much time do.",
+                  "answer": "pour-over"  
+                },
+                {
+                  "question": "Where is the best coffee from?",
+                  "hint": "El Salvador is a good guess",
+                  "answer": "El Salvador"  
+                },
+                {
+                    "question": "How do you make coffee beans?",
+                    "hint": "Think really hard",
+                    "answer": "You grow them ya dumb fuck."  
+                  },
+                  {
+                      "question": "Who should not be allowed coffee?",
+                      "hint": "...",
+                      "answer": "Assholes, dipshits, douchebags, and fuckers."  
+                    },
+                    {
+                      "question": "Why is coffee prohibited in Gallup New Mexico?",
+                      "hint": "just try",
+                      "answer": "It's not, ya bitch."  
+                    },
+                    {
+                        "question": "What is the stupidest thing in the world?",
+                        "hint": "it has to do with coffee.",
+                        "answer": "Decaf coffee, fuck that."  
+                      }
+        ]
+    }
+}

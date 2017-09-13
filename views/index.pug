@@ -1,0 +1,7 @@
+extends layout
+block content
+    h2 Sign up or Login
+    form(action="/register" method="get")
+        button(type="submit" name="signup" value="signedUp") Sign Up
+    form(action="/login" method="get")
+         button(type="submit" name="login" value="loggedIn") Login

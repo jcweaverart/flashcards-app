@@ -1,0 +1,10 @@
+extends layout
+block content
+    h1(class="cursiveWords") Welcome, #{name}
+    p lets study some flashcards
+    form(action="/dash/deck" method="get")
+        button(type="submit") Start Flashcards
+    form(action="/dash/weather" method="get") 
+        button(type="submit") Check Weather
+    form(action="/" method="post")
+        button(type="submit") Logout

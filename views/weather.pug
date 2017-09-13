@@ -1,0 +1,7 @@
+extends layout
+block content
+    h1 The Weather in PLACE is:
+    h2 #{data}
+    form(action="/dash/weather" method="get")
+        input(type="text" placeholder="Location")
+        button(type="submit") Search Weather

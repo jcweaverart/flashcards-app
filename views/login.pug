@@ -1,0 +1,7 @@
+extends layout
+block content 
+    h1 Sign In
+    form(action="/dash" method="POST") 
+        label(for="un") Username:
+            input(type="text" id="un" name="username")
+        button(type="submit") Login

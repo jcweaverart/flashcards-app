@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Monoton|Open+Sans+Condensed:300|Pacifico|Sacramento');
+
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: arial;
+}
+
+a {
+    text-decoration: none;
+}
+
+h2 {
+    font-size: 3.6em;
+    color: #cdcdcd;
+}
+
+
+#mainHeading {
+    font-family: 'Monoton', cursive;
+    font-size: 50px;
+}
+
+.cursiveWords {
+    font-family: 'Pacifico', sans-serif;
+    color: #00d8ff;
+}
+
+#hint {
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #bcbcbc;
+}
+
+button {
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+    color: black;
+    background: white;
+    text-decoration: none;
+    list-style: none;
+}
+
+button:hover {
+    background: #bcbcbc;
+}
+
+button:focus {
+    outline: none;
+}
+
+button a {
+    text-decoration: none;
+}
+
+input {
+    margin: 10px;
+}
+
+input:focus {
+    outline: none;
+}
+
+#footerPiece {
+    position: relative;
+    top: 20px;
+    color: #9b9b9b;
+    font-family: 'Open Sans Condensed', sans-serif;
+}

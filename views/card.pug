@@ -1,0 +1,14 @@
+extends layout
+block content
+    h1(class="cursiveWords")= deckName
+    h2 #{QorA}
+    if otherSide === "answer"
+        p(id="hint")= hint
+    button(type="button")
+        a(href="/dash/deck") Next Card
+    button(type="button")
+        a(href=`/dash/deck/${id}?side=${otherSide}`) #{otherSide}
+    button(type="button")
+        a(href="/dash") Dash
+    //-
+        img(src="/img/wolfCola.jpg", alt="wolf")
