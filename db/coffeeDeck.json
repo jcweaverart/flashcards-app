@@ -1,31 +1,31 @@
 {
     "data": {
-        "title": "Vulgar Coffee Trivia",
+        "title": "Coffee Trivia",
         "cards": [
             {
               "question": "What is a Coffee Shop chain that starts with an 'S'?",
               "hint": "It rhymes with barlucks.",
-              "answer": "Starbucks, its boss."  
+              "answer": "Starbucks, its pretty fantastic actually."  
             },
             {
                 "question": "What is a Chemex?",
                 "hint": "besides stupid and pretentious",
-                "answer": "A shitty way to take too long to make coffee."  
+                "answer": "A way to take too long to make coffee."  
               },
               {
                 "question": "What is used to turn coffee beans into coffee grounds?",
-                "hint": "You should know this, its pretty much in the question.",
-                "answer": "A coffee Grinder, dipshit."  
+                "hint": "It's Self explanitory.",
+                "answer": "A coffee grinder."  
               },
               {
-                "question": "What do coffee, crack, pcp, meth and heroin have in common?",
+                "question": "What do coffee and chocolate have in common?",
                 "hint": "I think we can all agree...",
-                "answer": "THEY'RE FUCKING GREAT!"  
+                "answer": "THEY'RE GREAT!"  
               },
               {
-                  "question": "What is the douchiest way to make coffee?",
-                  "hint": "its what assholes with too much time do.",
-                  "answer": "pour-over"  
+                  "question": "What is the craziest way to make coffee?",
+                  "hint": "its what people with too much time do.",
+                  "answer": "pour-over...but I kind of love it."  
                 },
                 {
                   "question": "Where is the best coffee from?",
@@ -35,22 +35,22 @@
                 {
                     "question": "How do you make coffee beans?",
                     "hint": "Think really hard",
-                    "answer": "You grow them ya dumb fuck."  
+                    "answer": "You grow them..."  
                   },
                   {
-                      "question": "Who should not be allowed coffee?",
-                      "hint": "...",
-                      "answer": "Assholes, dipshits, douchebags, and fuckers."  
+                      "question": "What color are coffee beans before they are roasted?",
+                      "hint": "it rhymes with lean",
+                      "answer": "Green"  
                     },
                     {
                       "question": "Why is coffee prohibited in Gallup New Mexico?",
                       "hint": "just try",
-                      "answer": "It's not, ya bitch."  
+                      "answer": "TRICK QUESTION, it's not!"  
                     },
                     {
                         "question": "What is the stupidest thing in the world?",
                         "hint": "it has to do with coffee.",
-                        "answer": "Decaf coffee, fuck that."  
+                        "answer": "Decaf coffee."  
                       }
         ]
     }
